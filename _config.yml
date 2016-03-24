@@ -1,0 +1,28 @@
+name: humble
+favicon: null
+layout_spectrum: 0.6958324594888836
+typography_spectrum: 0.9027177258394659
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.05203018756583333
+  lightness: 0.1186935598962009
+  saturation: 0.8663173604290932
+  rhythmicContrast: 0.4665513455402106
+purpose: []
